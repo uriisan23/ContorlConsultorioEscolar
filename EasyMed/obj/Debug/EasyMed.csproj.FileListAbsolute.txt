@@ -1,0 +1,14 @@
+C:\Users\ASLO\Desktop\JFK\EasyMed\bin\Debug\EasyMed.exe.config
+C:\Users\ASLO\Desktop\JFK\EasyMed\bin\Debug\EasyMed.exe
+C:\Users\ASLO\Desktop\JFK\EasyMed\bin\Debug\EasyMed.pdb
+C:\Users\ASLO\Desktop\JFK\EasyMed\obj\Debug\EasyMed.Form1.resources
+C:\Users\ASLO\Desktop\JFK\EasyMed\obj\Debug\EasyMed.Properties.Resources.resources
+C:\Users\ASLO\Desktop\JFK\EasyMed\obj\Debug\EasyMed.csproj.GenerateResource.cache
+C:\Users\ASLO\Desktop\JFK\EasyMed\obj\Debug\EasyMed.exe
+C:\Users\ASLO\Desktop\JFK\EasyMed\obj\Debug\EasyMed.pdb
+C:\Users\ASLO\Desktop\JFK\EasyMed\obj\Debug\EasyMed.Login.resources
+C:\Users\ASLO\Desktop\JFK\EasyMed\obj\Debug\EasyMed.csproj.CoreCompileInputs.cache
+C:\Users\ASLO\Desktop\JFK\EasyMed\obj\Debug\EasyMed.VisitView.resources
+C:\Users\ASLO\Desktop\JFK\EasyMed\obj\Debug\EasyMed.csprojAssemblyReference.cache
+C:\Users\ASLO\Desktop\JFK\EasyMed\obj\Debug\EasyMed.SectionView.resources
+C:\Users\ASLO\Desktop\JFK\EasyMed\obj\Debug\EasyMed.Medical.MedicalView.resources
